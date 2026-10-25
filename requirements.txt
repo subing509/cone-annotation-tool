@@ -1,0 +1,6 @@
+ultralytics==8.3.200
+numpy>=1.26,<2.2
+opencv-python>=4.8,<5
+pillow>=10,<13
+psutil>=5.9,<8
+PyYAML>=6,<7
